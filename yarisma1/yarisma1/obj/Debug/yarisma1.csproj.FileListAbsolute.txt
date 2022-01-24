@@ -1,0 +1,7 @@
+C:\Users\alper\source\repos\yarisma1\yarisma1\obj\Debug\yarisma1.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\yarisma1\yarisma1\bin\Debug\yarisma1.exe.config
+C:\Users\alper\source\repos\yarisma1\yarisma1\bin\Debug\yarisma1.exe
+C:\Users\alper\source\repos\yarisma1\yarisma1\bin\Debug\yarisma1.pdb
+C:\Users\alper\source\repos\yarisma1\yarisma1\obj\Debug\yarisma1.exe
+C:\Users\alper\source\repos\yarisma1\yarisma1\obj\Debug\yarisma1.pdb
+C:\Users\alper\source\repos\yarisma1\yarisma1\obj\Debug\yarisma1.csproj.AssemblyReference.cache
